@@ -1,0 +1,1 @@
+default['mycookbook']['mywebpackage']="apache2"
